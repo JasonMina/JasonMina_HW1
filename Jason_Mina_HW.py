@@ -1,4 +1,4 @@
-import struct
+
 import socket
 n=bytes()
 server1 = "time-a-b.nist.gov"
